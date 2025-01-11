@@ -45,7 +45,7 @@ Enfoque Centrado en el Cliente: Tus necesidades son lo primero, y estamos aquí 
 ¿Listo para Ser Propietario de Tu Propio Terreno en Texas?
 Ya sea que busques un refugio privado de 5 acres o un terreno versátil para ranchos o recreación, Las Tierras Land Investments tiene la solución perfecta para ti. Da el primer paso hacia la propiedad de tierras explorando nuestras ofertas o poniéndote en contacto con nuestro equipo.
 
-# 📧 Contáctanos hoy en: info@lastierrasland.com
-# 🌐 Visita nuestra página web: www.lastierrasland.com
+# 📧 Contáctanos hoy en: LasTierrasLandInvestments@Gmail.com
+# Phone # 956-371-9425
 
 Empieza tu camino con nosotros y experimenta la libertad, flexibilidad y asequibilidad de ser propietario de tierras en Texas. 
