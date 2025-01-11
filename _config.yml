@@ -1,5 +1,22 @@
+# Site settings
 title: "Las Tierras Land Investments"
-description: "Brownsville TX Ranches"
-baseurl: ""
-url: "https://joseg35.github.io/Las-tierras-website"
-theme: jekyll-theme-minimal
+description: "Affordable 5-Acre Ranches in Brownsville, TX"
+baseurl: "" # Set this to "/repository-name" if your site is in a subdirectory
+url: "https://joseg35.github.io/Las-tierras-website" # Replace with your site's GitHub Pages URL
+
+# Theme settings
+theme: jekyll-theme-cayman
+
+# Optional settings for customization
+author: "Las Tierras Land Investments"
+email: "your-email@example.com" # Replace with your business email
+social_links:
+  github: "https://github.com/joseg35"
+  linkedin: "https://www.linkedin.com/in/your-profile/" # Replace with your LinkedIn URL
+  facebook: "https://www.facebook.com/your-page/" # Replace with your Facebook Page
+
+# Plugins (Optional for SEO or sitemap generation)
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
