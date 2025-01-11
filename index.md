@@ -4,7 +4,8 @@ title: "Las Tierras Land Investments"
 ---
 
 # Welcome to Las Tierras Land Investments
-images/1A2DE021-9BA7-4500-880A-88B57D1FD0C8.PNG
+![Texas Property](images/1A2DE021-9BA7-4500-880A-88B57D1FD0C8.PNG)
+
 
 # Por qué Deberías Comprar Terrenos con Las Tierras Land Investments 
 En Las Tierras Land Investments, nos especializamos en ofrecer oportunidades únicas para la propiedad de terrenos asequibles. Ya sea que busques una pequeña casa de rancho, un refugio personal o una inversión, proporcionamos opciones que se adaptan a tus necesidades y presupuesto. Aquí te explicamos por qué comprar con nosotros es una decisión inteligente:
